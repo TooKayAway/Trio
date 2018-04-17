@@ -3,7 +3,6 @@ using namespace std;
 
 void sortnum( int& one, int& two, int& three ) {
     if ( one > two && one > three ) {
-        cout<<"yes";
         if ( two > three ) {
                        
         } else {
